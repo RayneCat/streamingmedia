@@ -5,7 +5,7 @@ html {
 body {
     width: 375px;
     margin: 0 auto;
-    font-family: "Raleway";
+    font-family: 'Raleway', sans-serif;
     color: #ffffff;
     background-color: #ffffff;
 }
